@@ -1,1 +1,2 @@
 # YelpDataVisualization
+The provided R file shows an analysis of business ratings on Yelp and also a description of ~500,000 users and the fan, votes, and reviews they have left. Using the user data, the goal is to answer one main question, "How can you enhance your popularity and reach?". Popularity and reach in this instance are practically synonomous with one another as an increase in fans constitutes and increase in reach. To view the data provided be sure to have the ggplot library installed on your device.
